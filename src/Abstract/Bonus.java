@@ -1,5 +1,6 @@
 package Abstract;
 
+import Derp.MovementComponent;
 /**
  * This is the abstract class of bonus
  * bonus will give is more points and an extra life.

@@ -94,25 +94,25 @@ public class Java2DGraphics {
         try{
             backgroundImg = null;
 
-            backgroundImg = ImageIO.read(new File("src/be/uantwerpen/fti/ei/Icons/Background.png"));
+            backgroundImg = ImageIO.read(new File("src/Icons/Background.png"));
 
-            PlayerShipImg = ImageIO.read(new File("src/be/uantwerpen/fti/ei/Icons/Player.png"));
+            PlayerShipImg = ImageIO.read(new File("src/Icons/Player.png"));
 
-            EnemyShip1Img = ImageIO.read(new File("src/be/uantwerpen/fti/ei/Icons/Enemy1.png"));
+            EnemyShip1Img = ImageIO.read(new File("src/Icons/Enemy1.png"));
 
-            EnemyShip2Img = ImageIO.read(new File("src/be/uantwerpen/fti/ei/Icons/Enemy2.png"));
+            EnemyShip2Img = ImageIO.read(new File("src/Icons/Enemy2.png"));
 
-            EnemyShip3Img = ImageIO.read(new File("src/be/uantwerpen/fti/ei/Icons/Enemy3.png"));
+            EnemyShip3Img = ImageIO.read(new File("src/Icons/Enemy3.png"));
 
-            BulletImg1 = ImageIO.read(new File("src/be/uantwerpen/fti/ei/Icons/Bullet1.png"));
+            BulletImg1 = ImageIO.read(new File("src/Icons/Bullet1.png"));
 
-            BulletImg2 = ImageIO.read(new File("src/be/uantwerpen/fti/ei/Icons/Bullet2.png"));
+            BulletImg2 = ImageIO.read(new File("src/Icons/Bullet2.png"));
 
-            BonusImg = ImageIO.read(new File("src/be/uantwerpen/fti/ei/Icons/Bonus.png"));
+            BonusImg = ImageIO.read(new File("src/Icons/Bonus.png"));
 
-            ExplosionImg = ImageIO.read(new File("src/be/uantwerpen/fti/ei/Icons/explosion.png"));
+            ExplosionImg = ImageIO.read(new File("src/Icons/explosion.png"));
 
-            BossImg = ImageIO.read(new File("src/be/uantwerpen/fti/ei/Icons/Boss.png"));
+            BossImg = ImageIO.read(new File("src/Icons/Boss.png"));
 
         }
         catch(IOException e){

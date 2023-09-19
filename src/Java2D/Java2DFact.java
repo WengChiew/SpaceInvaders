@@ -1,7 +1,8 @@
 package Java2D;
 
 
-import Abstract.AbstractFactory;
+import Abstract.*;
+import Derp.ReadProperties;
 
 import java.io.IOException;
 
@@ -17,7 +18,7 @@ public class Java2DFact extends AbstractFactory {
     private final int height;
     public Java2DFact(String configfile) throws IOException {
         ReadProperties r = new ReadProperties(configfile);
-        g = new Java2dGraphics(r.getWidth(), r.getHeight());
+        g = new Java2DGraphics(r.getWidth(), r.getHeight());
         width = r.getWidth();
         height = r.getHeight();
     }
@@ -42,7 +43,7 @@ public class Java2DFact extends AbstractFactory {
      * create entity Java2DInput
      * @return Java2DInput
      */
-    public Input createInput() {return  new Java2dInput(g);}
+    public Input createInput() {return  new Java2DInput(g);}
 
     /**
      * create entity Java2DBullet
