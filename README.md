@@ -24,6 +24,9 @@ Game over
 Game running
 
 
+<img width="335" height="259" alt="Image" src="https://github.com/user-attachments/assets/6dfe9f3f-41f6-4825-b5ae-d2601cfa502c" />
+
+
 
 Explosions
 
