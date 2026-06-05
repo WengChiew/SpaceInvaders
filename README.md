@@ -31,6 +31,12 @@ Game running
 Explosions
 
 
+<img width="536" height="449" alt="Image" src="https://github.com/user-attachments/assets/6e32d956-533c-46ec-a027-1ffc683642eb" />
+
 
 
 Boss battle
+
+
+
+<img width="600" height="462" alt="Image" src="https://github.com/user-attachments/assets/70737d49-943c-49f1-86f0-99a35b13f9e2" />
