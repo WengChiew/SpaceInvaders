@@ -9,11 +9,16 @@ Title screen
 Pause screen
 
 
-<img width="335" height="261" alt="Image" src="https://github.com/user-attachments/assets/5b5a9292-7442-49f5-8489-846151869661" />
+
+
+<img width="336" height="260" alt="Image" src="https://github.com/user-attachments/assets/c2b60485-2160-4e58-b76d-088dd40cb0ec" />
+
 
 
 Game over
 
+
+<img width="335" height="261" alt="Image" src="https://github.com/user-attachments/assets/5b5a9292-7442-49f5-8489-846151869661" />
 
 
 Game running
